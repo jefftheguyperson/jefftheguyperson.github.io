@@ -9,7 +9,7 @@
 title: SeemsLegit.com
 email: zach@lesriz.com
 description: > # this means to ignore newlines until "baseurl:"
-Seems Legit is a free website that allows you to build your own website with an easy to use template, or from scratch!
+Seems Legit is a free website that allows you to easily build your own website with graphics, or you can do it from scratch!
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://yourdomain.com" # the base hostname & protocol for your site
 twitter_username: jekyllrb
